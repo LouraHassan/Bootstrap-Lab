@@ -1,0 +1,39 @@
+.btn-purple{
+    color: white;
+    background-color: #754FFE;
+}
+.circle{
+    width: 75px;
+    height: 75px;
+    border-radius: 50px;
+    background-color: #754FFE;
+
+}
+.text-purple{
+color: #754FFE;
+}
+.padding{
+    padding: 1.5rem;
+   
+}
+.fa-check{
+    margin: 10px;
+    background-color: #FFEEDA;
+    border-radius: 50px;
+    color: #CE9655;
+}
+ul{
+    list-style: none;
+}
+.row-centered {
+    text-align:center;
+    }
+
+    .col-centered {
+        display:inline-block;
+        float:none;
+        /* reset the text-align */
+        text-align:left;
+        /* inline-block space fix */
+        margin-right:-4px;
+        }
